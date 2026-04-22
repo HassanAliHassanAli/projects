@@ -4,6 +4,8 @@
 
 ## 🎯 Executive Summary
 Final-year **Business Information Systems (BIS)** student at **Abu Qir Higher Institutes**. I specialize in bridging the gap between technical data and actionable business strategies. My core expertise lies in **Data Analysis, Business Analysis, ERP Systems, and Supply Chain & Logistics Optimization**. 
+I am a practitioner in **Local AI & LLM Engineering**, where I focus on deploying privacy-first, offline AI agents to automate complex enterprise workflows. My work spans across advanced financial OCR, automated system analysis, and integrating LLMs into secure ERP and Supply Chain environments to drive operational excellence while ensuring absolute data sovereignty.
+
 
 ## 🏆 Key Milestones & Certifications
 - **Top Achiever:** InnovEgypt Program.
@@ -14,6 +16,7 @@ Final-year **Business Information Systems (BIS)** student at **Abu Qir Higher In
 - **Business & Operations:** ERP Systems, Supply Chain Optimization, Logistics Management, Fraud & Risk Analysis.
 - **Data Analysis & Visualization:** SQL, Power BI, Tableau, Advanced Excel.
 - **Enterprise Software:** Odoo ERP.
+- Local AI & LLM : Offline LLM Deployment (AnythingLLM/LM Studio), Prompt Engineering, and AI-Driven Business Automation.
 
 ---
 
@@ -30,6 +33,9 @@ Final-year **Business Information Systems (BIS)** student at **Abu Qir Higher In
 | **[Supply Chain Risk & Fraud](./Supply-Chain-Risk-Fraud-Analysis)** | Risk Management | Data Analysis | Anomaly detection and risk mitigation within supply chain workflows. |
 | **[Warehouse & Logistics Management](./Warehouse-Logistics-Management-System)** | Logistics | Business Analysis | System analysis for optimizing warehouse operations and inventory management. |
 | **[E-commerce Analytics](./E-commerce-Analytics-PowerBI)** | E-commerce | Power BI | Interactive tracking of online sales trends and customer behavior. |
+| **[Local LLM QA & Architecture Testing](./AnythingLLM_Project)** | AI & System Architecture | AnythingLLM, Qwen2-VL | Stress testing 7B offline models for cybersecurity roadmaps, ML anomaly detection, and cloud IaC. |
+| **[Enterprise AI Workflows](./LM-Studio_Project)** | AI Business Automation | LM Studio, Prompt Engineering | Zero-shot offline AI workflows for financial OCR, resume parsing, SQL DB design, and Agile/Jira automation. |
+| **[Offline AI Agent Implementation](./Open_Code_Project)** | AI Agents & ERP | OpenCode IDE, Python, SQL | 100% offline IDE integration bridging AI with ERP backend logic, supply chain optimization, and database architecture. |
 
 ---
 ## 📫 Let's Connect
