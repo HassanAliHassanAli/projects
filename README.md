@@ -34,7 +34,7 @@ I am a practitioner in **Local AI & LLM Engineering**, where I focus on deployin
 | **[Warehouse & Logistics Management](./Warehouse-Logistics-Management-System)** | Logistics | Business Analysis | System analysis for optimizing warehouse operations and inventory management. |
 | **[E-commerce Analytics](./E-commerce-Analytics-PowerBI)** | E-commerce | Power BI | Interactive tracking of online sales trends and customer behavior. |
 | **[Local LLM QA & Architecture Testing](./AnythingLLM_Project)** | AI & System Architecture | AnythingLLM, Qwen2-VL | Stress testing 7B offline models for cybersecurity roadmaps, ML anomaly detection, and cloud IaC. |
-| **[Enterprise AI Workflows](./LM Studio_Project)** | AI Business Automation | LM Studio, Prompt Engineering | Zero-shot offline AI workflows for financial OCR, resume parsing, SQL DB design, and Agile/Jira automation. |
+| **[Enterprise AI Workflows](./LM-Studio_Project)** | AI Business Automation | LM Studio, Prompt Engineering | Zero-shot offline AI workflows for financial OCR, resume parsing, SQL DB design, and Agile/Jira automation. |
 | **[Offline AI Agent Implementation](./Open_Code_Project)** | AI Agents & ERP | OpenCode IDE, Python, SQL | 100% offline IDE integration bridging AI with ERP backend logic, supply chain optimization, and database architecture. |
 
 ---
