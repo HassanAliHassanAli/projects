@@ -24,8 +24,8 @@ To ensure alignment with business goals, the project was managed under a strict 
 * **Workflow Management:** Implemented a complex enterprise workflow (To Do -> In Progress -> In Review -> UAT -> Done).
 * **ITSM Simulation:** Managed critical performance bugs and feature requests using priority-based ticketing.
 
-> ![Jira Board](<img width="1600" height="900" alt="Jira_Enterprise_Kanban_Board" src="https://github.com/user-attachments/assets/61e3f132-bf1e-4cb6-bbc1-fff25bc96c41" />
-)
+> ![Jira Board](https://github.com/user-attachments/assets/61e3f132-bf1e-4cb6-bbc1-fff25bc96c41)
+
 > *Caption: Professional Kanban Board showcasing task dependencies, labels, and team assignment.*
 
 ---
@@ -46,8 +46,8 @@ The final deliverable is an executive-level dashboard focused on **Customer Beha
 * **11.10 Days** - Average customer return cycle (The primary target for retention campaigns).
 * **Top Department:** 'Produce' leading with **9.5M units sold**.
 
-> ![Power BI Dashboard](<img width="949" height="535" alt="PowerBI_Executive_Dashboard" src="https://github.com/user-attachments/assets/12db1f0e-3106-4045-94c1-69cff1a37e52" />
-)
+> ![Power BI Dashboard](https://github.com/user-attachments/assets/12db1f0e-3106-4045-94c1-69cff1a37e52)
+
 > *Caption: Executive Dashboard utilizing advanced DAX for real-time business tracking.*
 
 ---
