@@ -6,6 +6,7 @@ This project represents a comprehensive **Business Intelligence** solution desig
 As a **Business Analyst**, I didn't just build dashboards; I managed the entire **Software Development Life Cycle (SDLC)** using **Jira**, engineered an optimized data pipeline, and delivered actionable insights to drive customer retention and sales growth.
 
 **🔗 Data Source:** [Instacart Market Basket Analysis Dataset (Kaggle)](https://www.kaggle.com/c/instacart-market-basket-analysis/data)
+
 **🔗 Power BI Interactive File:** [Download the .pbix file from Google Drive](https://drive.google.com/file/d/1Q5jvjjxqN8AGqyaHtU8JQVA4PETEm6qf/view?usp=sharing)
 ---
 
