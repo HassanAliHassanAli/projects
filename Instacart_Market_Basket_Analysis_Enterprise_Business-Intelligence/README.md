@@ -7,6 +7,7 @@ As a **Business Analyst**, I didn't just build dashboards; I managed the entire 
 
 **🔗 Data Source:** [Instacart Market Basket Analysis Dataset (Kaggle)](https://www.kaggle.com/c/instacart-market-basket-analysis/data)
 
+**🔗 Power BI Interactive File:** [Download the .pbix file from Google Drive](https://drive.google.com/file/d/1Q5jvjjxqN8AGqyaHtU8JQVA4PETEm6qf/view?usp=sharing)
 ---
 
 ## 🛠️ The Professional Tech Stack
@@ -23,7 +24,8 @@ To ensure alignment with business goals, the project was managed under a strict 
 * **Workflow Management:** Implemented a complex enterprise workflow (To Do -> In Progress -> In Review -> UAT -> Done).
 * **ITSM Simulation:** Managed critical performance bugs and feature requests using priority-based ticketing.
 
-> ![Jira Board](e:\my projects\Instacart_Market_Basket_Analysis_Enterprise_Business-Intelligence\Project-Management-Jira\Jira_Enterprise_Kanban_Board.png)
+> ![Jira Board](https://github.com/user-attachments/assets/61e3f132-bf1e-4cb6-bbc1-fff25bc96c41)
+
 > *Caption: Professional Kanban Board showcasing task dependencies, labels, and team assignment.*
 
 ---
@@ -44,7 +46,8 @@ The final deliverable is an executive-level dashboard focused on **Customer Beha
 * **11.10 Days** - Average customer return cycle (The primary target for retention campaigns).
 * **Top Department:** 'Produce' leading with **9.5M units sold**.
 
-> ![Power BI Dashboard](e:\my projects\Instacart_Market_Basket_Analysis_Enterprise_Business-Intelligence\PowerBI-Dashboards\PowerBI_Executive_Dashboard.png)
+> ![Power BI Dashboard](https://github.com/user-attachments/assets/12db1f0e-3106-4045-94c1-69cff1a37e52)
+
 > *Caption: Executive Dashboard utilizing advanced DAX for real-time business tracking.*
 
 ---
