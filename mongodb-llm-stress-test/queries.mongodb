@@ -1,0 +1,52 @@
+// ==========================================
+// MongoDB Queries for LLM Logs Analysis
+// Project: AI Agents Memory Stress Test
+// ==========================================
+
+// تحديد قاعدة البيانات المستخدمة
+use('ai_agents_memory');
+
+
+// ==========================================
+// 1. Basic Filters (استعلامات الفلترة الأساسية)
+// ==========================================
+
+// أ: استعلام بسيط: استخراج كل الجلسات التي تم اكتشاف هلوسة بها
+db.sessions.find({ 
+    status: "Hallucination_Detected" 
+});
+
+// ب: استعلام مركب: الجلسات التي استخدمت نموذج معين واستهلكت توكنز أعلى من 3500
+db.sessions.find({ 
+    model_version: "Model-v2-Pro", 
+    total_tokens_used: { $gt: 3500 } 
+});
+
+// ج: استعلام متداخل (Dot Notation): إيجاد الجلسات التي كانت اللغة المكتشفة فيها "عربية" من داخل التفاصيل العميقة
+db.sessions.find({ 
+    "processing_steps.metrics.detected_language": "ar" 
+});
+
+
+// ==========================================
+// 2. Aggregation Pipelines (التجميعات المتقدمة)
+// ==========================================
+
+// خط تجميع (Pipeline): 
+// 1. تصفية (Match) الجلسات الناجحة فقط.
+// 2. تجميع (Group) الجلسات بناءً على اسم النموذج وحساب متوسط استهلاك التوكنز لكل نموذج.
+db.sessions.aggregate([
+  {
+    $match: {
+      status: "Success"
+    }
+  },
+  {
+    $group: {
+      _id: "$model_version",
+      average_tokens: {
+        $avg: "$total_tokens_used"
+      }
+    }
+  }
+]);
