@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 📱 Nokia Business Analysis & Strategic Planning (Graduation Project 2026)
 
 
@@ -7,7 +7,6 @@ This repository contains the complete documentation and executive presentation f
 
 The goal of this analysis is to evaluate Nokia's business model transitions and provide data-driven recommendations for its future market positioning using comprehensive strategic frameworks.
 
----
 
 ## 🏗️ Core Analysis Areas
 * **Strategic Frameworks:** Comprehensive SWOT Analysis, pinpointing Nokia's internal strengths and vulnerabilities against external market opportunities and threats.
